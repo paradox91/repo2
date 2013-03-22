@@ -12,12 +12,5 @@ def main():
 def getText():
     return 'Git'
 
-class TextDrawer:
-    def setFont(self, font):
-        pass
-
-    def draw(self, text):
-        pass
-
 if __name__ == '__main__':
     main()
