@@ -1,4 +1,5 @@
 from font import Font, FontLoader
+from textdrawer import TextDrawer
 
 def getText():
     return 'Git'
