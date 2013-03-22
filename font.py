@@ -5,4 +5,14 @@ class Font:
 
 class FontLoader:
     def loadFont(self, directory):
+        font = Font("fancy")
+
+        font.letters['G'] = r'''
+  ___ 
+ / __)
+( (_ \
+ \___/
+'''
+        return font
+
         pass
