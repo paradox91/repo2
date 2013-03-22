@@ -13,6 +13,12 @@ class FontLoader:
 ( (_ \
  \___/
 '''
+        font.letters['I'] = r'''
+  __  
+ (  ) 
+  )(  
+ (__) 
+'''
         return font
 
         pass
